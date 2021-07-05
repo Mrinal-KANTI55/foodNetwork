@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.EqualSpace{
+    display: flex;
+}
+.BlockImg{
+    height: 80%;
+    width: 80%;
+}
+.BlokSize{
+    width: 50%;
+
+}
