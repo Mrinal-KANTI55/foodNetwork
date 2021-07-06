@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    color: rgb(82, 78, 78);
 }
 h1{
     font-weight: 700px;
@@ -8,7 +9,12 @@ h1{
 }
 h2{
     font-weight: 400px;
-    font-size: 30px;    
+    font-size: 30px; 
+}
+h4{
+    font-weight: 400px;
+    font-size: 25px;
+    color: black;
 }
 .FontColor{
     color: orange;
@@ -82,6 +88,9 @@ footer{
     padding-top: 1%;
     padding-bottom: 5%;
 }
+#FooterFontColor{
+    color: rgb(82, 78, 78);
+}
 .ExtraWorkflexBorder{
     width: 90%;
     border: 2px solid white;
@@ -95,6 +104,10 @@ footer{
 .ExtraWorkDiv{
     width: 30%;
     margin-left: 10%;
+}
+.ExteraIdFontColor{
+    color: black;
+
 }
 
 
